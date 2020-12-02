@@ -2,3 +2,7 @@
 	path = ku-benjetJer
 	url = https://github.com/jku20/mk65_14_parse_args.git
 	branch = main
+[submodule "hirotaEis"]
+	path = hirotaEis
+	url = https://github.com/ei5uke/14_parse_args_mks.git
+	branch = main
