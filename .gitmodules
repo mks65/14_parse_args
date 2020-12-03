@@ -29,3 +29,7 @@
 [submodule "zhangeAle"]
 	path = zhangeAle
 	url = https://github.com/Kappachino-Latte/14_parse_args_zhangAle/
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/14_parse_args_zhangAle/
+	branch = master
