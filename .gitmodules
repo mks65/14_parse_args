@@ -112,3 +112,7 @@
 	path = siniscalcoFra
 	url = https://github.com/NopeSiniscalco/14_parse_args_mks.git
 	branch = main
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/work_14.git
+	branch = main
