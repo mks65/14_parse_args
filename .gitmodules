@@ -72,3 +72,7 @@
 	path = huLuc
 	url = https://github.com/lhu10/systems_14_parse_args.git
 	branch = main
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-14_parse_args.git
+	branch = master
