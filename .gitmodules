@@ -120,3 +120,7 @@
 	path = yeCul
 	url = https://github.com/CullenLYe/work14_parseargs.git
 	branch = main
+[submodule "linLei"]
+	path = linLei
+	url = https://github.com/llin11/14_parse_args.git
+	branch = main
