@@ -88,3 +88,7 @@
 	path = zhengYul
 	url = https://github.com/yzheng10/14_Parse_Args.git
 	branch = main
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Work_14.git
+	branch = main
