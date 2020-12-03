@@ -124,3 +124,7 @@
 	path = linLei
 	url = https://github.com/llin11/14_parse_args.git
 	branch = main
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/systems-14
+	branch = master
