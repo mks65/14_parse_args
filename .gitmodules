@@ -41,3 +41,7 @@
 	path = leeSte
 	url = https://github.com/kevidgel/14_parse_args
 	branch = main
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work14
+	branch = main
