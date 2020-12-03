@@ -96,3 +96,7 @@
 	path = ganHao
 	url = https://github.com/haotianGan/14_repo
 	branch = master
+[submodule "jiangVin"]
+	path = jiangVin
+	url = https://github.com/vjiang10/14_parse_args_vj.git
+	branch = master
