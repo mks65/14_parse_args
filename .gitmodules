@@ -136,3 +136,7 @@
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/14_parse_args
 	branch = main
+[submodule "siuVic"]
+	path = siuVic
+	url = https://github.com/vs2961/14_parse_args.git
+	branch = main
