@@ -132,3 +132,7 @@
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/14_parse_args
 	branch = main
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/14_parse_args
+	branch = main
