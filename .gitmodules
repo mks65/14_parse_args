@@ -14,3 +14,7 @@
 	path = zhangDev
 	url = https://github.com/dzhang10/hw_14_parsearg.git
 	branch = master
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/14_parse_args.git
+	branch = main
