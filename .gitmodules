@@ -76,3 +76,11 @@
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-14_parse_args.git
 	branch = master
+[submodule "nathMiv"]
+	path = nathMiv
+	url = https://github.com/Michael-Nath/mnath_argumentative.git
+	branch = main
+[submodule "nathMic"]
+	path = nathMic
+	url = https://github.com/Michael-Nath/mnath_argumentative.git
+	branch = main
