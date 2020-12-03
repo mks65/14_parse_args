@@ -26,3 +26,6 @@
 	path = vostrikovVla
 	url = https://github.com/villinoid/14_systems.git
 	branch = main
+[submodule "zhangeAle"]
+	path = zhangeAle
+	url = https://github.com/Kappachino-Latte/14_parse_args_zhangAle/
