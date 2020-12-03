@@ -18,3 +18,7 @@
 	path = yeGen
 	url = https://github.com/Gene1212/14_parse_args.git
 	branch = main
+[submodule "liSun"]
+	path = liSun
+	url = https://github.com/sunnyli13/Work14.git
+	branch = main
