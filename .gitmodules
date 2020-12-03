@@ -33,3 +33,7 @@
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/14_parse_args_zhangAle/
 	branch = master
+[submodule "maoMad"]
+	path = maoMad
+	url = https://github.com/madelynxmao/14_parse_args.git
+	branch = main
