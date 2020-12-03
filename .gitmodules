@@ -22,3 +22,7 @@
 	path = liSun
 	url = https://github.com/sunnyli13/Work14.git
 	branch = main
+[submodule "vostrikovVla"]
+	path = vostrikovVla
+	url = https://github.com/villinoid/14_systems.git
+	branch = main
