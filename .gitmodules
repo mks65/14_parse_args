@@ -100,3 +100,7 @@
 	path = jiangVin
 	url = https://github.com/vjiang10/14_parse_args_vj.git
 	branch = master
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/hw14_parse_args
+	branch = master
