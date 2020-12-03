@@ -68,3 +68,7 @@
 	path = zhangJin
 	url = https://github.com/Jinzxc/14_parse_args_J.git
 	branch = main
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_14_parse_args.git
+	branch = main
