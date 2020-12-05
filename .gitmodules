@@ -49,9 +49,6 @@
 	path = ahmedTah
 	url = https://github.com/TahsinAhmed13/14_parse_args.git
 	branch = main
-[submodule "chenJac"]
-	path = chenJac
-	url = https://github.com/jchen2003/14_parse_args.git
 [submodule "zhaoGav"]
 	path = zhaoGav
 	url = https://github.com/gzhao10/hw14.git
