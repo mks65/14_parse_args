@@ -141,3 +141,7 @@
 	path = chenJac
 	url = https://github.com/jchen2003/14_parse_args.git
 	branch = main
+[submodule "chanSer"]
+	path = chanSer
+	url = https://github.com/schan11/parseargs.git
+	branch = master
